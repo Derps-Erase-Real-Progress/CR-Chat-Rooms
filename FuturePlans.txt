@@ -1,3 +1,6 @@
 Give OP powers (or with permissions) to change a certain player's chatroom to something else
+
 Give OP powers (or with permissions) to create permenant chat rooms
-Give the choice to OP (or with permissions) between having the server's player's prefixes from the default chatroom in their chat rooms
+
+Give the choice to OP (or with permissions) between having the server's player's prefixes 
+  from the default chatroom in their chat rooms
